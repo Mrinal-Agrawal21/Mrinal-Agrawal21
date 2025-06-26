@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Mrinal Agrawal**, a **Frontend Developer** and **Tech Enthusiast** with a passion for crafting seamless, responsive, and user-centric web applications. With a strong foundation in **IoT**, I love building projects that blend the digital and physical worlds. I’m currently diving deep into **AI-powered web experiences** and **autonomous systems**.
+I'm **Mrinal Agrawal**, a **Frontend Developer** and **Tech Enthusiast** with a passion for crafting seamless, responsive, and user-centric web applications. I love building projects that blend the digital and physical worlds. I’m currently diving deep into **AI-powered web experiences** and **autonomous systems**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mrinal-Agrawal21&label=Profile%20Views&color=blue&style=for-the-badge)
 
